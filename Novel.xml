@@ -1,0 +1,20 @@
+<Novel>
+    <Novel genre="Series">
+        <title>Harry Potter</title>
+        <author>J.K Rowling</author>
+        <pages>300</pages>
+        <price>$25</price>
+    </Novel>
+    <Novel genre="Action">
+        <title>Home Alone</title>
+        <author>John Hughes</author>
+        <pages>250</pages>
+        <price>$30</price>
+    </Novel>
+    <Novel genre="Fantasy Fiction">
+        <title>Maleficent</title>
+        <author>Jacob ludwig</author>
+        <pages>400</pages>
+        <price>$35</price>
+    </Novel>
+</Novel>

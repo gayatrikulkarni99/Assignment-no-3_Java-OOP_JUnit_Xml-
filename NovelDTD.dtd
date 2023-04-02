@@ -1,0 +1,7 @@
+<!ELEMENT Novel (Novel)*>
+<!ATTLIST novel genre CDATA "action">
+<!ELEMENT novel (title,author,pages,price)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT pages (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
